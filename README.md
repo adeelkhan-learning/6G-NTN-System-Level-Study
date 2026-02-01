@@ -89,7 +89,7 @@ To maintain practical relevance, the study adopts the following scope:
 
 📄 Download the full PDF study here:
 
-👉 [Download Full Study (PDF)](Adeel_Khan_6G_NTN_System_Level_Study)
+👉 [Download Full Study (PDF)](Adeel_Khan_6G_NTN_System_Level_Study.pdf)
 
 (Available in this repository)
 
