@@ -13,4 +13,7 @@ Summarizing:
 This study is an independent, system-level technical analysis developed from a mobile network operator perspective. It is intended to bridge practical cellular network experience with emerging research directions in 6G and Non-Terrestrial Networks (NTN). The work emphasizes architectural clarity, operational feasibility, and deployment realism rather than protocol-level or physical-layer optimization.
 Author: Adeel Khan  
 Independent Telecom Systems Engineer  
-LinkedIn: <https://www.linkedin.com/in/adeel-naim-khan-6093122/)>  
+LinkedIn: <https://www.linkedin.com/in/adeel-naim-khan-6093122/>  
+## How to Cite This Work
+Khan, A., "6G Non-Terrestrial Networks (NTN): A System-Level Architectural Study", 2026.
+Available at: <https://github.com/adeelkhan-learning/6G-NTN-System-Level-Study.git/>
