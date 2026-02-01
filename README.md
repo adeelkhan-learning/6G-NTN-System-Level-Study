@@ -6,6 +6,8 @@ This repository contains an independent system-level study analyzing how Non-Ter
 
 The focus is on architecture, performance trade-offs, mobility, spectrum coexistence, and deployment feasibility from a mobile network operator (MNO) perspective.
 
+**Status:** Completed system-level study (conceptual + analytical)
+
 ⸻
 
 # 📘 Overview
@@ -143,4 +145,8 @@ It does not represent proprietary data or the official position of any operator 
 
 ⸻
 
-Keywords: 6G, NTN, Non-Terrestrial Networks, LEO, MEO, GEO, 5G-Advanced, Satellite-Cellular Integration, Hybrid Access
+Note: NTN access depends on UE capability and operator enablement in accordance with 3GPP NTN specifications.
+
+⸻
+
+**Keywords:** 6G, NTN, Non-Terrestrial Networks, LEO, MEO, GEO, 5G-Advanced, Satellite-Cellular Integration, Hybrid Access
