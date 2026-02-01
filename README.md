@@ -11,7 +11,7 @@ Summarizing:
 •	NTN is most effective as a controlled fallback and resilience layer
 •	Hybrid terrestrial–NTN architectures align well with operator cost models
 This study is an independent, system-level technical analysis developed from a mobile network operator perspective. It is intended to bridge practical cellular network experience with emerging research directions in 6G and Non-Terrestrial Networks (NTN). The work emphasizes architectural clarity, operational feasibility, and deployment realism rather than protocol-level or physical-layer optimization.
-Author: Adeel Khan  
+## Author: Adeel Khan  
 Independent Telecom Systems Engineer  
 LinkedIn: <https://www.linkedin.com/in/adeel-naim-khan-6093122/>  
 ## How to Cite This Work
