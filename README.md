@@ -14,13 +14,13 @@ As cellular networks evolve toward 6G, coverage continuity, resilience, and glob
 
 This study:
 
-	•	Treats NTN as a native access extension, not a bolt-on solution
+	-	Treats NTN as a native access extension, not a bolt-on solution
 	
-	•	Emphasizes system-level KPIs, not physical-layer simulations
+	-	Emphasizes system-level KPIs, not physical-layer simulations
 	
-	•	Bridges the gap between academic NTN research and operator deployment reality
+	-	Bridges the gap between academic NTN research and operator deployment reality
 
-	•	NTN access is subject to UE capability and operator enablement, in line with 3GPP NTN specifications
+	-	NTN access is subject to UE capability and operator enablement, in line with 3GPP NTN specifications
 	
 
 ⸻
@@ -46,44 +46,43 @@ This work aims to:
 
 To maintain practical relevance, the study adopts the following scope:
 
-	•	Focus on system-level behavior, not detailed PHY or protocol implementation
+	-	Focus on system-level behavior, not detailed PHY or protocol implementation
 	
-	•	Downlink-centric analysis, with uplink discussed conceptually
+	-	Downlink-centric analysis, with uplink discussed conceptually
 	
-	•	Simplified but realistic propagation and mobility models
+	-	Simplified but realistic propagation and mobility models
 	
-	•	Emphasis on operator-relevant KPIs (latency, RTT, Doppler, coverage continuity)
+	-	Emphasis on operator-relevant KPIs (latency, RTT, Doppler, coverage continuity)
 	
-	•	NTN primarily considered for areas without existing terrestrial coverage
+	-	NTN primarily considered for areas without existing terrestrial coverage
 	
 
 ⸻
 
 # 🏗️ What This Study Covers
 
-	•	Hybrid terrestrial–NTN architecture
+	-	Hybrid terrestrial–NTN architecture
 	
-	•	UE access selection and mobility behavior
+	-	UE access selection and mobility behavior
 	
-	•	Orbit-aware performance comparison (LEO / MEO / GEO)
+	-	Orbit-aware performance comparison (LEO / MEO / GEO)
 	
-	•	Latency, RTT, Doppler, and service continuity analysis
+	-	Latency, RTT, Doppler, and service continuity analysis
 	
-	•	Border interference and spectrum coexistence considerations
+	-	Border interference and spectrum coexistence considerations
 	
-	•	Practical use cases:
+	-	Practical use cases:
 	
-		•	Remote oil & gas fields
+		-	Remote oil & gas fields
 	
-		•	Desert highways and crossings
+		-	Desert highways and crossings
 	
-		•	Mountain trekking regions
+		-	Mountain trekking regions
 	
-		•	Disaster recovery and emergency communications
+		-	Disaster recovery and emergency communications
 	
-		•	Operator-friendly deployment and monetization perspectives
+		-	Operator-friendly deployment and monetization perspectives
 	
-
 ⸻
 
 # 📄 Full Study Document
@@ -114,15 +113,15 @@ Available at: https://github.com/adeelkhan-learning/6G-NTN-System-Level-Study
 
 This study is written for:
 
-	•	Mobile Network Operators (MNOs)
+	-	Mobile Network Operators (MNOs)
 	
-	•	RAN / Core / System architects
+	-	RAN / Core / System architects
 	
-	•	NTN and satellite communication engineers
+	-	NTN and satellite communication engineers
 	
-	•	5G-Advanced and 6G researchers
+	-	5G-Advanced and 6G researchers
 	
-	•	Telecom regulators and spectrum planners
+	-	Telecom regulators and spectrum planners
 	
 ⸻
 
