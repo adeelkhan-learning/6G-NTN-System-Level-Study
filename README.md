@@ -1,4 +1,5 @@
-# 6G-NTN-System-Level-Study
+# 6G Non-Terrestrial Networks (NTN): A System-Level Architectural Study
+An independent, operator-centric study on integrating NTN as a native access in 5G-Advanced and future 6G networks.
 The evolution toward 6G networks is expected to extend mobile connectivity beyond traditional terrestrial boundaries, enabling seamless service availability in remote, rural, and infrastructure-challenged environments. Non-Terrestrial Networks (NTN), leveraging satellite-based access, are emerging as a key enabler of this vision.
 This study presents a system-level analysis of a hybrid terrestrial–NTN cellular architecture aligned with 5G Standalone (SA) and future 6G design principles. The objective is to evaluate how Low Earth Orbit (LEO), Medium Earth Orbit (MEO), and Geostationary Earth Orbit (GEO) satellite systems can complement terrestrial cellular networks from an operator perspective.
 The analysis focuses on operator-relevant performance indicators, including latency, round-trip time (RTT), throughput, voice service feasibility, mobility continuity, and service availability. Rather than detailed physical-layer modeling, the study emphasizes end-to-end system behavior, architectural trade-offs, and deployment considerations relevant to real-world cellular networks.
