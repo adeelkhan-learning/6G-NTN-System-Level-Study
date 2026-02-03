@@ -1,6 +1,6 @@
 # 6G Non-Terrestrial Networks (NTN): A System-Level Architectural Study
 
-## 📡 An operator-centric technical study on hybrid terrestrial–NTN integration for 6G-ready cellular networks
+## An operator-centric technical study on hybrid terrestrial–NTN integration for 6G-ready cellular networks
 
 This repository contains an independent system-level study analyzing how Non-Terrestrial Networks (NTN) can be practically integrated with existing terrestrial cellular networks, with a forward-looking alignment to 6G design principles.
 
@@ -10,7 +10,7 @@ The focus is on architecture, performance trade-offs, mobility, spectrum coexist
 
 ⸻
 
-# 📘 Overview
+# Overview
 
 As cellular networks evolve toward 6G, coverage continuity, resilience, and global reach become fundamental design goals. NTN—enabled by LEO, MEO, and GEO satellites—offers a powerful complement to terrestrial networks, particularly in remote, rural, maritime, desert, disaster-prone, and cross-border regions.
 
@@ -27,7 +27,7 @@ This study:
 
 ⸻
 
-# 🎯 Objectives of the Study
+# Objectives of the Study
 
 This work aims to:
 
@@ -44,7 +44,7 @@ This work aims to:
 
 ⸻
 
-# 🔍 Scope & Assumptions
+# Scope & Assumptions
 
 To maintain practical relevance, the study adopts the following scope:
 
@@ -61,7 +61,7 @@ To maintain practical relevance, the study adopts the following scope:
 
 ⸻
 
-# 🏗️ What This Study Covers
+# What This Study Covers
 
 	-	Hybrid terrestrial–NTN architecture
 	
@@ -87,9 +87,9 @@ To maintain practical relevance, the study adopts the following scope:
 	
 ⸻
 
-# 📄 Full Study Document
+# Full Study Document
 
-📄 Download the full PDF study here:
+Download the full PDF study here:
 
 👉 [Download Full Study (PDF)](Adeel_Khan_6G_NTN_System_Level_Study.pdf)
 
@@ -97,7 +97,7 @@ To maintain practical relevance, the study adopts the following scope:
 
 ⸻
 
-# 📚 How to Cite This Work
+# How to Cite This Work
 
 If you reference or build upon this study, please cite it as:
 
@@ -111,7 +111,7 @@ Available at: https://github.com/adeelkhan-learning/6G-NTN-System-Level-Study
 
 ⸻
 
-# 👥 Intended Audience
+# Intended Audience
 
 This study is written for:
 
@@ -127,7 +127,7 @@ This study is written for:
 	
 ⸻
 
-# 🔗 Links & Contact
+# Links & Contact
 
 Author: Adeel Naim Khan
 	
